@@ -1,15 +1,14 @@
-# Oc Islandora
-Place this app in **owncloud/apps/**
+# OwnCloud Islandora
 
-## Publish to App Store
+## Overview
 
-First get an account for the [App Store](http://apps.owncloud.com/) then run:
+OwnCloud application to automate create of Islandora objects from files copied to a folder in OwnCloud.
 
-    make appstore_package
+## Installation
 
-The archive is located in build/artifacts/appstore and can then be uploaded to the App Store.
+Place this app in **owncloud/apps/** in your OwnCloud server.
 
-## Running tests
-After [Installing PHPUnit](http://phpunit.de/getting-started.html) run:
+## Development status
 
-    phpunit -c phpunit.xml
+Developer is starting to learn OwnCloud, so this might not be useful to anyone for a while. Updates will be posted here.
+
