@@ -2,7 +2,7 @@
 <info>
     <id>ocislandora</id>
     <name>Oc Islandora</name>
-    <description>My first ownCloud app</description>
+    <description>Enables creating Islandora objects from files copied to ownCloud</description>
     <licence>AGPL</licence>
     <author>Mark Jordan</author>
     <version>0.0.1</version>
