@@ -6,7 +6,8 @@ OwnCloud application to automate create of Islandora objects from files copied t
 
 ## Installation
 
-Place this app in **owncloud/apps/** in your OwnCloud server.
+1. Place this app in **owncloud/apps/** in your OwnCloud server.
+2. Enable the appby by visiting the Apps settings, then clicking on "Not enabled", then enabling Oc Islandora.
 
 ## Development status
 
